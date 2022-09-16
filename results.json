@@ -1,0 +1,2091 @@
+{
+  "2022-09-10": [
+    {
+      "time": "12:00 AM",
+      "title": "Baker Hughes Oil Rig Count",
+      "metaData": {
+        "country": "US",
+        "actual": "591",
+        "previous": "596",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "12:00 AM",
+      "title": "Baker Hughes Total Rig Count",
+      "metaData": {
+        "country": "US",
+        "actual": "759",
+        "previous": "760",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "",
+      "title": "Passenger Vehicles Sales MoM",
+      "metaData": {
+        "country": "IN",
+        "actual": "-4.3%",
+        "previous": "13.1%",
+        "consensus": "",
+        "forecast": ""
+      }
+    }
+  ],
+  "2022-09-11": [
+    {
+      "time": "07:00 AM",
+      "title": "",
+      "metaData": {
+        "country": "SE",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "SA",
+        "actual": "17.7%",
+        "previous": "20.8%",
+        "consensus": "",
+        "forecast": "18.5%"
+      }
+    }
+  ],
+  "2022-09-12": [
+    {
+      "time": "07:01 AM",
+      "title": "Construction PMI",
+      "metaData": {
+        "country": "IE",
+        "actual": "46.9",
+        "previous": "41.8",
+        "consensus": "",
+        "forecast": "41.6"
+      }
+    },
+    {
+      "time": "10:30 AM",
+      "title": "Motorbike Sales YoY",
+      "metaData": {
+        "country": "ID",
+        "actual": "11.6%",
+        "previous": "-13.3%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "10:30 AM",
+      "title": "Foreign Direct Investment",
+      "metaData": {
+        "country": "PH",
+        "actual": "$0.47B",
+        "previous": "$0.74B",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "11:00 AM",
+      "title": "Retail Sales YoY",
+      "metaData": {
+        "country": "MY",
+        "actual": "37.5%",
+        "previous": "38.4%",
+        "consensus": "",
+        "forecast": "40%"
+      }
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Balance of Trade",
+      "metaData": {
+        "country": "NL",
+        "actual": "€6.77B",
+        "previous": "€7.013B",
+        "consensus": "",
+        "forecast": "€5.8B"
+      }
+    },
+    {
+      "time": "12:00 PM",
+      "title": "Current Account",
+      "metaData": {
+        "country": "FI",
+        "actual": "€-0.3B",
+        "previous": "€-0.1B",
+        "consensus": "",
+        "forecast": "€-0.7B"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Harmonised Inflation Rate YoY",
+      "metaData": {
+        "country": "DK",
+        "actual": "9.9%",
+        "previous": "9.6%",
+        "consensus": "",
+        "forecast": "10.6%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "DK",
+        "actual": "8.9%",
+        "previous": "8.7%",
+        "consensus": "",
+        "forecast": "10%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate MoM",
+      "metaData": {
+        "country": "DK",
+        "actual": "0.0%",
+        "previous": "1.1%",
+        "consensus": "",
+        "forecast": "1%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Machine Tool Orders YoY",
+      "metaData": {
+        "country": "JP",
+        "actual": "10.7%",
+        "previous": "5.5%",
+        "consensus": "",
+        "forecast": "7%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "RO",
+        "actual": "15.32%",
+        "previous": "14.96%",
+        "consensus": "15.1%",
+        "forecast": "15.3%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "GDP MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "0.2%",
+        "previous": "-0.6%",
+        "consensus": "0.4%",
+        "forecast": "0.1%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "GDP 3-Month Avg",
+      "metaData": {
+        "country": "GB",
+        "actual": "0%",
+        "previous": "-0.1%",
+        "consensus": "0.1%",
+        "forecast": "-0.1%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Manufacturing Production YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "1.1%",
+        "previous": "1.3%",
+        "consensus": "1.6%",
+        "forecast": "1.5%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Balance of Trade",
+      "metaData": {
+        "country": "GB",
+        "actual": "£-7.793B",
+        "previous": "£-11.387B",
+        "consensus": "",
+        "forecast": "£-11.7B"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Construction Output YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "4.3%",
+        "previous": "4.1%",
+        "consensus": "5.6%",
+        "forecast": "2.5%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Goods Trade Balance",
+      "metaData": {
+        "country": "GB",
+        "actual": "£-19.362B",
+        "previous": "£-22.847B",
+        "consensus": "£-22.4B",
+        "forecast": "£-23.3B"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Goods Trade Balance Non-EU",
+      "metaData": {
+        "country": "GB",
+        "actual": "£-10.194B",
+        "previous": "£-12.29B",
+        "consensus": "",
+        "forecast": "£-12.9B"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "1.1%",
+        "previous": "2.4%",
+        "consensus": "1.9%",
+        "forecast": "1.8%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Industrial Production MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "-0.3%",
+        "previous": "-0.9%",
+        "consensus": "0.4%",
+        "forecast": "0.3%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Manufacturing Production MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "0.1%",
+        "previous": "-1.6%",
+        "consensus": "0.4%",
+        "forecast": "0.9%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "GDP YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "2.3%",
+        "previous": "1.9%",
+        "consensus": "2.6%",
+        "forecast": "2.0%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "CZ",
+        "actual": "17.2%",
+        "previous": "17.5%",
+        "consensus": "17.7%",
+        "forecast": "18%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Inflation Rate MoM",
+      "metaData": {
+        "country": "CZ",
+        "actual": "0.4%",
+        "previous": "1.3%",
+        "consensus": "0.8%",
+        "forecast": "1.5%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Unemployment Rate",
+      "metaData": {
+        "country": "TR",
+        "actual": "10.1%",
+        "previous": "10.3%",
+        "consensus": "",
+        "forecast": "10.6%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Current Account",
+      "metaData": {
+        "country": "TR",
+        "actual": "$-4.01B",
+        "previous": "$-3.458B",
+        "consensus": "$-3.6B",
+        "forecast": "$-3.68B"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Participation Rate",
+      "metaData": {
+        "country": "TR",
+        "actual": "52.6%",
+        "previous": "53.2%",
+        "consensus": "",
+        "forecast": "53.3%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Loan Growth YoY",
+      "metaData": {
+        "country": "AE",
+        "actual": "5.5%",
+        "previous": "6.5%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "M3 Money Supply YoY",
+      "metaData": {
+        "country": "AE",
+        "actual": "9.4%",
+        "previous": "8%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "02:20 PM",
+      "title": "Foreign Exchange Reserves",
+      "metaData": {
+        "country": "TH",
+        "actual": "$215B",
+        "previous": "$220B",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "02:30 PM",
+      "title": "ECB Guindos Speech",
+      "metaData": {
+        "country": "EA",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "03:00 PM",
+      "title": "ECB Survey of Monetary Analysts",
+      "metaData": {
+        "country": "EA",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "03:00 PM",
+      "title": "Industrial Production MoM",
+      "metaData": {
+        "country": "IT",
+        "actual": "0.4%",
+        "previous": "-2%",
+        "consensus": "0.3%",
+        "forecast": "-0.4%"
+      }
+    },
+    {
+      "time": "03:00 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "IT",
+        "actual": "-1.4%",
+        "previous": "-1.1%",
+        "consensus": "-0.4%",
+        "forecast": "-0.8%"
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "Auto Production YoY",
+      "metaData": {
+        "country": "TR",
+        "actual": "-13.3%",
+        "previous": "37.4%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:30 PM",
+      "title": "BCB Focus Market Readout",
+      "metaData": {
+        "country": "BR",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "ECB Schnabel Speech",
+      "metaData": {
+        "country": "EA",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Manufacturing Production YoY",
+      "metaData": {
+        "country": "IN",
+        "actual": "3.2%",
+        "previous": "12.9%",
+        "consensus": "",
+        "forecast": "5.1%"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "IN",
+        "actual": "2.4%",
+        "previous": "12.7%",
+        "consensus": "4.3%",
+        "forecast": "5%"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "IN",
+        "actual": "7%",
+        "previous": "6.71%",
+        "consensus": "6.9%",
+        "forecast": "6.7%"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Inflation Rate MoM",
+      "metaData": {
+        "country": "IN",
+        "actual": "0.52%",
+        "previous": "0.46%",
+        "consensus": "",
+        "forecast": "0.4%"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "",
+      "metaData": {
+        "country": "GB",
+        "actual": "-0.2%",
+        "previous": "0%",
+        "consensus": "",
+        "forecast": "-0.3%"
+      }
+    },
+    {
+      "time": "08:00 PM",
+      "title": "3-Month BTF Auction",
+      "metaData": {
+        "country": "FR",
+        "actual": "0.648%",
+        "previous": "0.039%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "08:00 PM",
+      "title": "12-Month BTF Auction",
+      "metaData": {
+        "country": "FR",
+        "actual": "1.450%",
+        "previous": "0.746%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "08:00 PM",
+      "title": "6-Month BTF Auction",
+      "metaData": {
+        "country": "FR",
+        "actual": "0.747%",
+        "previous": "0.160%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "08:30 PM",
+      "title": "Current Account",
+      "metaData": {
+        "country": "DE",
+        "actual": "€5B",
+        "previous": "€14.3B",
+        "consensus": "",
+        "forecast": "€13.3B"
+      }
+    },
+    {
+      "time": "10:00 PM",
+      "title": "Consumer Inflation Expectations",
+      "metaData": {
+        "country": "US",
+        "actual": "5.7%",
+        "previous": "6.2%",
+        "consensus": "",
+        "forecast": "6.1%"
+      }
+    },
+    {
+      "time": "10:30 PM",
+      "title": "3-Year Note Auction",
+      "metaData": {
+        "country": "US",
+        "actual": "3.564%",
+        "previous": "3.202%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "10:30 PM",
+      "title": "6-Month Bill Auction",
+      "metaData": {
+        "country": "US",
+        "actual": "3.465%",
+        "previous": "3.32%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "11:00 PM",
+      "title": "",
+      "metaData": {
+        "country": "US",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "",
+      "title": "Consumer Confidence",
+      "metaData": {
+        "country": "IL",
+        "actual": "-18.27",
+        "previous": "-23.22",
+        "consensus": "",
+        "forecast": "-22.5"
+      }
+    }
+  ],
+  "2022-09-13": [
+    {
+      "time": "12:00 AM",
+      "title": "3-Month Bill Auction",
+      "metaData": {
+        "country": "US",
+        "actual": "3.075%",
+        "previous": "2.965%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "12:00 AM",
+      "title": "10-Year Note Auction",
+      "metaData": {
+        "country": "US",
+        "actual": "3.330%",
+        "previous": "2.755%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:50 AM",
+      "title": "BSI Large Manufacturing QoQ",
+      "metaData": {
+        "country": "JP",
+        "actual": "1.7%",
+        "previous": "-9.9%",
+        "consensus": "",
+        "forecast": "-1.5%"
+      }
+    },
+    {
+      "time": "06:50 AM",
+      "title": "PPI MoM",
+      "metaData": {
+        "country": "JP",
+        "actual": "0.2%",
+        "previous": "0.7%",
+        "consensus": "0.4%",
+        "forecast": "0.3%"
+      }
+    },
+    {
+      "time": "06:50 AM",
+      "title": "PPI YoY",
+      "metaData": {
+        "country": "JP",
+        "actual": "9%",
+        "previous": "9%",
+        "consensus": "8.9%",
+        "forecast": "7.9%"
+      }
+    },
+    {
+      "time": "07:30 AM",
+      "title": "Westpac Consumer Confidence Index",
+      "metaData": {
+        "country": "AU",
+        "actual": "84.4",
+        "previous": "81.2",
+        "consensus": "",
+        "forecast": "80.5"
+      }
+    },
+    {
+      "time": "07:30 AM",
+      "title": "Westpac Consumer Confidence Change",
+      "metaData": {
+        "country": "AU",
+        "actual": "3.9%",
+        "previous": "-3%",
+        "consensus": "",
+        "forecast": "-1%"
+      }
+    },
+    {
+      "time": "08:30 AM",
+      "title": "NAB Business Confidence",
+      "metaData": {
+        "country": "AU",
+        "actual": "10",
+        "previous": "8",
+        "consensus": "",
+        "forecast": "6"
+      }
+    },
+    {
+      "time": "10:00 AM",
+      "title": "Consumer Confidence",
+      "metaData": {
+        "country": "TH",
+        "actual": "43.7",
+        "previous": "42.4",
+        "consensus": "",
+        "forecast": "42"
+      }
+    },
+    {
+      "time": "10:35 AM",
+      "title": "5 Year Note Yield",
+      "metaData": {
+        "country": "JP",
+        "actual": "0.040%",
+        "previous": "-0.007%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate YoY Final",
+      "metaData": {
+        "country": "DE",
+        "actual": "7.9%",
+        "previous": "7.5%",
+        "consensus": "7.9%",
+        "forecast": "7.9%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate MoM Final",
+      "metaData": {
+        "country": "DE",
+        "actual": "0.3%",
+        "previous": "0.9%",
+        "consensus": "0.3%",
+        "forecast": "0.3%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Harmonised Inflation Rate MoM Final",
+      "metaData": {
+        "country": "DE",
+        "actual": "0.4%",
+        "previous": "0.8%",
+        "consensus": "0.4%",
+        "forecast": "0.4%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Harmonised Inflation Rate YoY Final",
+      "metaData": {
+        "country": "DE",
+        "actual": "8.8%",
+        "previous": "8.5%",
+        "consensus": "8.8%",
+        "forecast": "8.8%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Claimant Count Change",
+      "metaData": {
+        "country": "GB",
+        "actual": "6.3K",
+        "previous": "-10.5K",
+        "consensus": "",
+        "forecast": "-4K"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Unemployment Rate",
+      "metaData": {
+        "country": "GB",
+        "actual": "3.6%",
+        "previous": "3.8%",
+        "consensus": "3.8%",
+        "forecast": "3.8%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Average Earnings incl. Bonus (3Mo/Yr)",
+      "metaData": {
+        "country": "GB",
+        "actual": "5.5%",
+        "previous": "5.2%",
+        "consensus": "5.4%",
+        "forecast": "5.1%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Employment Change",
+      "metaData": {
+        "country": "GB",
+        "actual": "40K",
+        "previous": "160K",
+        "consensus": "128K",
+        "forecast": "50K"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Average Earnings excl. Bonus (3Mo/Yr)",
+      "metaData": {
+        "country": "GB",
+        "actual": "5.2%",
+        "previous": "4.7%",
+        "consensus": "5%",
+        "forecast": "5.1%"
+      }
+    },
+    {
+      "time": "01:30 PM",
+      "title": "Producer & Import Prices MoM",
+      "metaData": {
+        "country": "CH",
+        "actual": "-0.1%",
+        "previous": "-0.1%",
+        "consensus": "",
+        "forecast": "-0.7%"
+      }
+    },
+    {
+      "time": "01:30 PM",
+      "title": "Producer & Import Prices YoY",
+      "metaData": {
+        "country": "CH",
+        "actual": "5.5%",
+        "previous": "6.3%",
+        "consensus": "",
+        "forecast": "5.9%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Inflation Rate MoM Final",
+      "metaData": {
+        "country": "ES",
+        "actual": "0.3%",
+        "previous": "-0.3%",
+        "consensus": "0.1%",
+        "forecast": "0.1%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Harmonised Inflation Rate MoM Final",
+      "metaData": {
+        "country": "ES",
+        "actual": "0.3%",
+        "previous": "-0.6%",
+        "consensus": "0.1%",
+        "forecast": "0.1%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Harmonised Inflation Rate YoY Final",
+      "metaData": {
+        "country": "ES",
+        "actual": "10.5%",
+        "previous": "10.7%",
+        "consensus": "10.3%",
+        "forecast": "10.3%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Inflation Rate YoY Final",
+      "metaData": {
+        "country": "ES",
+        "actual": "10.5%",
+        "previous": "10.8%",
+        "consensus": "10.4%",
+        "forecast": "10.4%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "TR",
+        "actual": "2.4%",
+        "previous": "8.8%",
+        "consensus": "",
+        "forecast": "6.5%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Industrial Production MoM",
+      "metaData": {
+        "country": "TR",
+        "actual": "-6.2%",
+        "previous": "1.4%",
+        "consensus": "",
+        "forecast": "0.3%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Retail Sales MoM",
+      "metaData": {
+        "country": "TR",
+        "actual": "-0.3%",
+        "previous": "-0.6%",
+        "consensus": "",
+        "forecast": "-1.1%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "Retail Sales YoY",
+      "metaData": {
+        "country": "TR",
+        "actual": "2%",
+        "previous": "5.4%",
+        "consensus": "",
+        "forecast": "5.1%"
+      }
+    },
+    {
+      "time": "02:30 PM",
+      "title": "ECB Enria Speech",
+      "metaData": {
+        "country": "EA",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "03:00 PM",
+      "title": "Current Account",
+      "metaData": {
+        "country": "CZ",
+        "actual": "€-2951M",
+        "previous": "€-547.1M",
+        "consensus": "",
+        "forecast": "€-1000M"
+      }
+    },
+    {
+      "time": "03:00 PM",
+      "title": "BoE Gov Bailey Speech",
+      "metaData": {
+        "country": "GB",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "03:40 PM",
+      "title": "3-Month Letras Auction",
+      "metaData": {
+        "country": "ES",
+        "actual": "0.707%",
+        "previous": "0.138%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "04:00 PM",
+      "title": "ZEW Economic Sentiment Index",
+      "metaData": {
+        "country": "EA",
+        "actual": "-60.7",
+        "previous": "-54.9",
+        "consensus": "-58.3",
+        "forecast": "-56.5"
+      }
+    },
+    {
+      "time": "04:00 PM",
+      "title": "ZEW Economic Sentiment Index",
+      "metaData": {
+        "country": "DE",
+        "actual": "-61.9",
+        "previous": "-55.3",
+        "consensus": "-60",
+        "forecast": "-59"
+      }
+    },
+    {
+      "time": "04:00 PM",
+      "title": "ZEW Current Conditions",
+      "metaData": {
+        "country": "DE",
+        "actual": "-60.5",
+        "previous": "-47.6",
+        "consensus": "-52.2",
+        "forecast": "-48.5"
+      }
+    },
+    {
+      "time": "04:10 PM",
+      "title": "3-Year BTP Auction",
+      "metaData": {
+        "country": "IT",
+        "actual": "2.77%",
+        "previous": "1.84%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "04:10 PM",
+      "title": "30-Year BTP Auction",
+      "metaData": {
+        "country": "IT",
+        "actual": "4.04%",
+        "previous": "4.230%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "04:10 PM",
+      "title": "7-Year BTP Auction",
+      "metaData": {
+        "country": "IT",
+        "actual": "3.50%",
+        "previous": "2.76%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "04:30 PM",
+      "title": "2-Year Schatz Auction",
+      "metaData": {
+        "country": "DE",
+        "actual": "1.31%",
+        "previous": "0.58%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "04:30 PM",
+      "title": "Gold Production YoY",
+      "metaData": {
+        "country": "ZA",
+        "actual": "-19.7%",
+        "previous": "-28.7%",
+        "consensus": "",
+        "forecast": "-28.2%"
+      }
+    },
+    {
+      "time": "04:30 PM",
+      "title": "Mining Production YoY",
+      "metaData": {
+        "country": "ZA",
+        "actual": "-8.4%",
+        "previous": "-7.1%",
+        "consensus": "-5%",
+        "forecast": "-4%"
+      }
+    },
+    {
+      "time": "04:30 PM",
+      "title": "Mining Production MoM",
+      "metaData": {
+        "country": "ZA",
+        "actual": "2.3%",
+        "previous": "-0.9%",
+        "consensus": "",
+        "forecast": "-0.7%"
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "Current Account",
+      "metaData": {
+        "country": "RO",
+        "actual": "€-3210M",
+        "previous": "€-4437M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "NFIB Business Optimism Index",
+      "metaData": {
+        "country": "US",
+        "actual": "91.8",
+        "previous": "89.9",
+        "consensus": "",
+        "forecast": "91.1"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Balance of Trade",
+      "metaData": {
+        "country": "PL",
+        "actual": "€-1452M",
+        "previous": "€-849M",
+        "consensus": "",
+        "forecast": "€-750M"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Current Account",
+      "metaData": {
+        "country": "PL",
+        "actual": "€-1735M",
+        "previous": "€-1468M",
+        "consensus": "€-1670M",
+        "forecast": "€-1400M"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "Core Inflation Rate YoY",
+      "metaData": {
+        "country": "US",
+        "actual": "6.3%",
+        "previous": "5.9%",
+        "consensus": "6.1%",
+        "forecast": "5.9%"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "US",
+        "actual": "8.3%",
+        "previous": "8.5%",
+        "consensus": "8.1%",
+        "forecast": "8.1%"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "Inflation Rate MoM",
+      "metaData": {
+        "country": "US",
+        "actual": "0.1%",
+        "previous": "0%",
+        "consensus": "-0.1%",
+        "forecast": "-0.2%"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "CPI",
+      "metaData": {
+        "country": "US",
+        "actual": "296.171",
+        "previous": "296.276",
+        "consensus": "295.53",
+        "forecast": "295.7"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "Core Inflation Rate MoM",
+      "metaData": {
+        "country": "US",
+        "actual": "0.6%",
+        "previous": "0.3%",
+        "consensus": "0.3%",
+        "forecast": "0.4%"
+      }
+    },
+    {
+      "time": "07:55 PM",
+      "title": "Redbook YoY",
+      "metaData": {
+        "country": "US",
+        "actual": "11.4%",
+        "previous": "10.9%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "08:45 PM",
+      "title": "ECB McCaul Speech",
+      "metaData": {
+        "country": "EA",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:00 PM",
+      "title": "IBD/TIPP Economic Optimism",
+      "metaData": {
+        "country": "US",
+        "actual": "44.7",
+        "previous": "38.1",
+        "consensus": "",
+        "forecast": "38.4"
+      }
+    },
+    {
+      "time": "",
+      "title": "Car Sales YoY",
+      "metaData": {
+        "country": "ID",
+        "actual": "16.4%",
+        "previous": "29.4%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "",
+      "title": "",
+      "metaData": {
+        "country": "OP",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    }
+  ],
+  "2022-09-14": [
+    {
+      "time": "12:00 AM",
+      "title": "30-Year Bond Auction",
+      "metaData": {
+        "country": "US",
+        "actual": "3.511%",
+        "previous": "3.106%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "01:00 AM",
+      "title": "Monthly Budget Statement",
+      "metaData": {
+        "country": "US",
+        "actual": "$-220B",
+        "previous": "$-211B",
+        "consensus": "$-213.5B",
+        "forecast": "$-250B"
+      }
+    },
+    {
+      "time": "03:30 AM",
+      "title": "API Crude Oil Stock Change",
+      "metaData": {
+        "country": "US",
+        "actual": "6.035M",
+        "previous": "3.645M",
+        "consensus": "-0.200M",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:00 AM",
+      "title": "Reuters Tankan Index",
+      "metaData": {
+        "country": "JP",
+        "actual": "10",
+        "previous": "13",
+        "consensus": "",
+        "forecast": "14"
+      }
+    },
+    {
+      "time": "06:50 AM",
+      "title": "Machinery Orders YoY",
+      "metaData": {
+        "country": "JP",
+        "actual": "12.8%",
+        "previous": "6.5%",
+        "consensus": "6.6%",
+        "forecast": "5.8%"
+      }
+    },
+    {
+      "time": "06:50 AM",
+      "title": "Machinery Orders MoM",
+      "metaData": {
+        "country": "JP",
+        "actual": "5.3%",
+        "previous": "0.9%",
+        "consensus": "-0.8%",
+        "forecast": "1.5%"
+      }
+    },
+    {
+      "time": "09:30 AM",
+      "title": "Unemployment Rate Final",
+      "metaData": {
+        "country": "SG",
+        "actual": "2.1%",
+        "previous": "2.2%",
+        "consensus": "",
+        "forecast": "2.1%"
+      }
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Industrial Production MoM Final",
+      "metaData": {
+        "country": "JP",
+        "actual": "0.8%",
+        "previous": "9.2%",
+        "consensus": "1%",
+        "forecast": "1%"
+      }
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Capacity Utilization MoM",
+      "metaData": {
+        "country": "JP",
+        "actual": "2.4%",
+        "previous": "9.6%",
+        "consensus": "",
+        "forecast": "1.1%"
+      }
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Industrial Production YoY Final",
+      "metaData": {
+        "country": "JP",
+        "actual": "-2.0%",
+        "previous": "-2.8%",
+        "consensus": "",
+        "forecast": "-1.8%"
+      }
+    },
+    {
+      "time": "12:00 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "FI",
+        "actual": "7.6%",
+        "previous": "7.8%",
+        "consensus": "",
+        "forecast": "7.1%"
+      }
+    },
+    {
+      "time": "12:00 PM",
+      "title": "Inflation Rate MoM",
+      "metaData": {
+        "country": "FI",
+        "actual": "0.1%",
+        "previous": "0.3%",
+        "consensus": "",
+        "forecast": "-0.4%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "RO",
+        "actual": "-0.9%",
+        "previous": "-2.1%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Industrial Production MoM",
+      "metaData": {
+        "country": "RO",
+        "actual": "0.3%",
+        "previous": "-2.4%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "CPIF MoM",
+      "metaData": {
+        "country": "SE",
+        "actual": "1.5%",
+        "previous": "-0.2%",
+        "consensus": "1.4%",
+        "forecast": "1.5%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "CPIF YoY",
+      "metaData": {
+        "country": "SE",
+        "actual": "9%",
+        "previous": "8%",
+        "consensus": "8.8%",
+        "forecast": "9.1%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "SE",
+        "actual": "9.8%",
+        "previous": "8.5%",
+        "consensus": "9.6%",
+        "forecast": "9.7%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate MoM",
+      "metaData": {
+        "country": "SE",
+        "actual": "1.8%",
+        "previous": "0.1%",
+        "consensus": "1.8%",
+        "forecast": "1.8%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "9.9%",
+        "previous": "10.1%",
+        "consensus": "10.2%",
+        "forecast": "10.6%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Inflation Rate MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "0.5%",
+        "previous": "0.6%",
+        "consensus": "0.6%",
+        "forecast": "0.7%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Core Inflation Rate YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "6.3%",
+        "previous": "6.2%",
+        "consensus": "6.3%",
+        "forecast": "6.4%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "PPI Core Output MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "0.3%",
+        "previous": "0.8%",
+        "consensus": "",
+        "forecast": "0.9%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "PPI Core Output YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "13.7%",
+        "previous": "14.4%",
+        "consensus": "",
+        "forecast": "14.6%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "PPI Input YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "20.5%",
+        "previous": "22.6%",
+        "consensus": "22.4%",
+        "forecast": "23.3%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "PPI Input MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "-1.2%",
+        "previous": "0.0%",
+        "consensus": "0.3%",
+        "forecast": "1.1%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "PPI Output MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "-0.1%",
+        "previous": "1.6%",
+        "consensus": "0.9%",
+        "forecast": "0.6%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "PPI Output YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "16.1%",
+        "previous": "17.1%",
+        "consensus": "17.4%",
+        "forecast": "17%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Retail Price Index YoY",
+      "metaData": {
+        "country": "GB",
+        "actual": "12.3%",
+        "previous": "12.3%",
+        "consensus": "12.4%",
+        "forecast": "13.1%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Retail Price Index MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "0.6%",
+        "previous": "0.9%",
+        "consensus": "0.7%",
+        "forecast": "1.3%"
+      }
+    },
+    {
+      "time": "01:00 PM",
+      "title": "Core Inflation Rate MoM",
+      "metaData": {
+        "country": "GB",
+        "actual": "0.8%",
+        "previous": "0.3%",
+        "consensus": "0.8%",
+        "forecast": "0.9%"
+      }
+    },
+    {
+      "time": "01:30 PM",
+      "title": "WPI Fuel YoY",
+      "metaData": {
+        "country": "IN",
+        "actual": "33.67%",
+        "previous": "43.75%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "01:30 PM",
+      "title": "WPI Food YoY",
+      "metaData": {
+        "country": "IN",
+        "actual": "12.37%",
+        "previous": "10.77%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "01:30 PM",
+      "title": "WPI Manufacturing YoY",
+      "metaData": {
+        "country": "IN",
+        "actual": "7.51%",
+        "previous": "8.16%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "01:30 PM",
+      "title": "WPI Inflation YoY",
+      "metaData": {
+        "country": "IN",
+        "actual": "12.41%",
+        "previous": "13.93%",
+        "consensus": "13%",
+        "forecast": "13.2%"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "title": "",
+      "metaData": {
+        "country": "EU",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "03:00 PM",
+      "title": "",
+      "metaData": {
+        "country": "FR",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "03:30 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "HK",
+        "actual": "2.7%",
+        "previous": "-1.3%",
+        "consensus": "",
+        "forecast": "3.2%"
+      }
+    },
+    {
+      "time": "04:00 PM",
+      "title": "Industrial Production MoM",
+      "metaData": {
+        "country": "EA",
+        "actual": "-2.3%",
+        "previous": "1.1%",
+        "consensus": "-1%",
+        "forecast": "-0.3%"
+      }
+    },
+    {
+      "time": "04:00 PM",
+      "title": "Industrial Production YoY",
+      "metaData": {
+        "country": "EA",
+        "actual": "-2.4%",
+        "previous": "2.2%",
+        "consensus": "0.4%",
+        "forecast": "1.7%"
+      }
+    },
+    {
+      "time": "04:00 PM",
+      "title": "Industrial Production MoM",
+      "metaData": {
+        "country": "PL",
+        "actual": "0.9%",
+        "previous": "-0.2%",
+        "consensus": "",
+        "forecast": "-0.4%"
+      }
+    },
+    {
+      "time": "04:30 PM",
+      "title": "30-Year Bund Auction",
+      "metaData": {
+        "country": "DE",
+        "actual": "1.79%",
+        "previous": "1.1%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "Residential Property Prices MoM",
+      "metaData": {
+        "country": "IE",
+        "actual": "0.8%",
+        "previous": "1.1%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "Residential Property Prices YoY",
+      "metaData": {
+        "country": "IE",
+        "actual": "13%",
+        "previous": "14%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "Balance of Trade",
+      "metaData": {
+        "country": "IL",
+        "actual": "$-3992.9M",
+        "previous": "$-3957.4M",
+        "consensus": "",
+        "forecast": "$-4100M"
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "Exports",
+      "metaData": {
+        "country": "IL",
+        "actual": "$5198.3M",
+        "previous": "$5037.2M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "title": "Imports",
+      "metaData": {
+        "country": "IL",
+        "actual": "$9191.2M",
+        "previous": "$9040.5M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "ECB Lane Speech",
+      "metaData": {
+        "country": "EA",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "Retail Sales MoM",
+      "metaData": {
+        "country": "ZA",
+        "actual": "-0.1%",
+        "previous": "-0.4%",
+        "consensus": "",
+        "forecast": "-0.8%"
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "Retail Sales YoY",
+      "metaData": {
+        "country": "ZA",
+        "actual": "8.6%",
+        "previous": "-2.3%",
+        "consensus": "8.4%",
+        "forecast": "2%"
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "MBA Mortgage Market Index",
+      "metaData": {
+        "country": "US",
+        "actual": "255",
+        "previous": "258.1",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "MBA Mortgage Refinance Index",
+      "metaData": {
+        "country": "US",
+        "actual": "532.9",
+        "previous": "556.4",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "MBA Purchase Index",
+      "metaData": {
+        "country": "US",
+        "actual": "198.1",
+        "previous": "197.8",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "MBA Mortgage Applications",
+      "metaData": {
+        "country": "US",
+        "actual": "-1.2%",
+        "previous": "-0.8%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "title": "MBA 30-Year Mortgage Rate",
+      "metaData": {
+        "country": "US",
+        "actual": "6.01%",
+        "previous": "5.94%",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "06:10 PM",
+      "title": "Balance of Trade Final",
+      "metaData": {
+        "country": "IN",
+        "actual": "$-27.98B",
+        "previous": "$-30B",
+        "consensus": "$-28.68B",
+        "forecast": "$-28.68B"
+      }
+    },
+    {
+      "time": "06:10 PM",
+      "title": "Exports Final",
+      "metaData": {
+        "country": "IN",
+        "actual": "$33.92B",
+        "previous": "$36.27B",
+        "consensus": "",
+        "forecast": "$33B"
+      }
+    },
+    {
+      "time": "06:10 PM",
+      "title": "Imports Final",
+      "metaData": {
+        "country": "IN",
+        "actual": "$61.9B",
+        "previous": "$66.27B",
+        "consensus": "",
+        "forecast": "$61.68B"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Retail Sales MoM",
+      "metaData": {
+        "country": "BR",
+        "actual": "-0.8%",
+        "previous": "-1.4%",
+        "consensus": "0.3%",
+        "forecast": "-0.4%"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "Retail Sales YoY",
+      "metaData": {
+        "country": "BR",
+        "actual": "-5.2%",
+        "previous": "-0.1%",
+        "consensus": "-3.5%",
+        "forecast": "-0.6%"
+      }
+    },
+    {
+      "time": "07:00 PM",
+      "title": "ECB McCaul Speech",
+      "metaData": {
+        "country": "EA",
+        "actual": "",
+        "previous": "",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "Manufacturing Sales MoM Final",
+      "metaData": {
+        "country": "CA",
+        "actual": "-0.9%",
+        "previous": "-0.1%",
+        "consensus": "-0.9%",
+        "forecast": "-0.9%"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "PPI MoM",
+      "metaData": {
+        "country": "US",
+        "actual": "-0.1%",
+        "previous": "-0.4%",
+        "consensus": "-0.1%",
+        "forecast": "0.1%"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "Core PPI MoM",
+      "metaData": {
+        "country": "US",
+        "actual": "0.4%",
+        "previous": "0.3%",
+        "consensus": "0.3%",
+        "forecast": "0.3%"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "Core PPI YoY",
+      "metaData": {
+        "country": "US",
+        "actual": "7.3%",
+        "previous": "7.6%",
+        "consensus": "7.1%",
+        "forecast": "7.1%"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "title": "PPI YoY",
+      "metaData": {
+        "country": "US",
+        "actual": "8.7%",
+        "previous": "9.8%",
+        "consensus": "8.8%",
+        "forecast": "8.9%"
+      }
+    },
+    {
+      "time": "08:30 PM",
+      "title": "Business Confidence",
+      "metaData": {
+        "country": "BR",
+        "actual": "62.8",
+        "previous": "59.8",
+        "consensus": "",
+        "forecast": "59"
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Gasoline Stocks Change",
+      "metaData": {
+        "country": "US",
+        "actual": "-1.767M",
+        "previous": "0.333M",
+        "consensus": "-0.858M",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Crude Oil Stocks Change",
+      "metaData": {
+        "country": "US",
+        "actual": "2.442M",
+        "previous": "8.844M",
+        "consensus": "0.833M",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Cushing Crude Oil Stocks Change",
+      "metaData": {
+        "country": "US",
+        "actual": "-0.135M",
+        "previous": "-0.501M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Distillate Fuel Production Change",
+      "metaData": {
+        "country": "US",
+        "actual": "-0.012M",
+        "previous": "0.112M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Distillate Stocks Change",
+      "metaData": {
+        "country": "US",
+        "actual": "4.219M",
+        "previous": "0.095M",
+        "consensus": "0.6M",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Gasoline Production Change",
+      "metaData": {
+        "country": "US",
+        "actual": "-0.399M",
+        "previous": "0.074M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Crude Oil Imports Change",
+      "metaData": {
+        "country": "US",
+        "actual": "-1.069M",
+        "previous": "1.357M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Heating Oil Stocks Change",
+      "metaData": {
+        "country": "US",
+        "actual": "0.039M",
+        "previous": "-0.724M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "title": "EIA Refinery Crude Runs Change",
+      "metaData": {
+        "country": "US",
+        "actual": "0.093M",
+        "previous": "-0.309M",
+        "consensus": "",
+        "forecast": ""
+      }
+    },
+    {
+      "time": "",
+      "title": "HIA New Home Sales MoM",
+      "metaData": {
+        "country": "AU",
+        "actual": "-16.0%",
+        "previous": "-13.1%",
+        "consensus": "",
+        "forecast": "-1.8%"
+      }
+    }
+  ]
+}
